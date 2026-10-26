@@ -53,7 +53,7 @@ copiar del pdf en vez de github pero luego lo solucione
 
 ## 🔗 Enlaces
 
-- **Vídeo de esta fase:** ; 
+- **Vídeo de esta fase:** 
 - **Playlist:** 
 
 ## 💭 Dudas / a repasar
