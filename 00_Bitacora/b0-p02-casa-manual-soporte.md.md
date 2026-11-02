@@ -53,8 +53,8 @@ copiar del pdf en vez de github pero luego lo solucione
 
 ## 🔗 Enlaces
 
-- **Vídeo de esta fase:** 
-- **Playlist:** 
+- **Vídeo de esta fase:** https://youtu.be/0O79mSNvdrw?si=vAmdJuDzR9p0bbj9
+- **Playlist:** https://youtube.com/playlist?list=PLe3-8-UCTZcw&si=9wldaoolWtOTOYj6
 
 ## 💭 Dudas / a repasar
 (Sin dudas pendientes)
